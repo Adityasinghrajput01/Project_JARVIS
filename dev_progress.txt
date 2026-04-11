@@ -1,3 +1,4 @@
 Jarvis project started
 Voice module integrated
 Command execution logic added
+Email sender configured
