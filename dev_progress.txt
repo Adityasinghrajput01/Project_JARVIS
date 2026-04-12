@@ -3,3 +3,4 @@ Voice module integrated
 Command execution logic added
 Email sender configured
 Music playback command linked
+Screenshot capture added
