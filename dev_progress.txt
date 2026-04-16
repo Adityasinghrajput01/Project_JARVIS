@@ -7,3 +7,4 @@ Screenshot capture added
 WhatsApp message automation built
 Alarm scheduling module added
 YouTube search command integrated
+Dictionary meaning feature built
