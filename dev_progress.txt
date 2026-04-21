@@ -11,3 +11,4 @@ Dictionary meaning feature built
 Camera opening support added
 Jokes module linked
 Battery and system info added
+IP address finder implemented
