@@ -12,3 +12,4 @@ Camera opening support added
 Jokes module linked
 Battery and system info added
 IP address finder implemented
+Instagram profile opener linked
