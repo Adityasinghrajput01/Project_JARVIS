@@ -13,3 +13,4 @@ Jokes module linked
 Battery and system info added
 IP address finder implemented
 Instagram profile opener linked
+PDF reader voice support added
