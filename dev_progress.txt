@@ -18,3 +18,4 @@ Face recognition attendance experiment
 Task reminder system updated
 Chat response optimization
 Voice wake word improved
+Error handling fixes
