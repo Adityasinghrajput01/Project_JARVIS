@@ -17,3 +17,4 @@ PDF reader voice support added
 Face recognition attendance experiment
 Task reminder system updated
 Chat response optimization
+Voice wake word improved
